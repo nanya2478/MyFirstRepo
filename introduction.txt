@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+  I’m Joseph Adeyanju, a software developer with five years of experience. I’m proficient in HTML5, CSS3, JavaScript, PHP, and Python. I enjoy reading, eating, playing games, and watching sci-fi movies. I’m passionate about helping people live better lives and deeply value my family. I’m currently an ALX Pathway Learner.
